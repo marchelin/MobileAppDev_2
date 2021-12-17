@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="default_web_client_id_2" translatable="false">981532451354-ncanii00b6br1ma523snc7trje2j8vjn.apps.googleusercontent.com</string>
 </resources>

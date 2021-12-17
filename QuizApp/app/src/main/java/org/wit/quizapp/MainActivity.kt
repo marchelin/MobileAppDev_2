@@ -24,10 +24,10 @@ class MainActivity : AppCompatActivity()
 
         if(isNightModeOn){
             AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
-            //switch_btn.text = "Disable Dark Mode"
+            switch_btn.text = "Disable Dark Mode"
         } else {
             AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
-            //switch_btn.text = "Enable Dark Mode"
+            switch_btn.text = "Enable Dark Mode"
         }
 
         switch_btn.setOnClickListener(View.OnClickListener {
@@ -36,13 +36,13 @@ class MainActivity : AppCompatActivity()
                 sharedPrefsEdit.putBoolean("NightMode", false)
                 sharedPrefsEdit.apply()
 
-                //switch_btn.text = "Enable Dark Mode"
+                switch_btn.text = "Enable Dark Mode"
             } else {
                 AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
                 sharedPrefsEdit.putBoolean("NightMode", true)
                 sharedPrefsEdit.apply()
 
-                //switch_btn.text = "Disable Dark Mode"
+                switch_btn.text = "Disable Dark Mode"
             }
         })
 
