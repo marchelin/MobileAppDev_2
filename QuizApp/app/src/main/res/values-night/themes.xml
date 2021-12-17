@@ -1,8 +1,13 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name = "NoActionBarTheme" parent = "Theme.MaterialComponents.Light.NoActionBar">
-        <item name="colorPrimary">@color/darkGrey</item>
-        <item name="colorPrimaryDark">@color/black</item>
-        <item name="colorAccent">@color/black</item>
-    </style>
+<resources>
+<!-- Night Mode Colors -->
+    <color name="btnPurple">#202020</color>
+    <color name="btnDarkPurple">#000000</color>
+    <color name="btnPurpleAccent">#000000</color>
+
+    <color name="dayWhiteText">#000000</color>
+    <color name="dayBlackText">#FFFFFF</color>
+
+    <color name="btnWhiteBg">#333333</color>
+
+    <color name="barColor">#9013FE</color>
 </resources>

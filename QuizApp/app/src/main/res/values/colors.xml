@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Day Mode Colors -->
-    <color name="colorPrimary">#9013FE</color>
-    <color name="colorPrimaryDark">#6A1B9A</color>
-    <color name="colorAccent">#9013FE</color>
-    <color name="dayWhite">#FFFFFF</color>
-    <color name="dayBlack">#000000</color>
+    <color name="btnPurple">#9013FE</color>
+    <color name="btnDarkPurple">#6A1B9A</color>
+    <color name="btnPurpleAccent">#9013FE</color>
 
-    <!-- Night Mode Colors -->
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
-    <color name="darkGrey">#121212</color>
+    <color name="dayWhiteText">#FFFFFF</color>
+    <color name="dayGreyText">#5b5b5b</color>
+    <color name="dayBlackText">#000000</color>
 
-    <color name="red">#FF0000</color>
+    <color name="btnWhiteBg">#FFFFFF</color>
+
+    <color name="barColor">#9013FE</color>
 </resources>

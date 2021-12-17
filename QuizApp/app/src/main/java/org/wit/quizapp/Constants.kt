@@ -13,8 +13,8 @@ object Constants
         val que1 = Question(
             1, "What is the third word connected?",
             R.drawable.q_1,
-            "ONE", "TWO",
-            "THREE", "KEY", 4
+            "FURNITURE", "KEY",
+            "APPLE", "SHINE", 2
         )
         questionsList.add(que1)
 
@@ -22,8 +22,8 @@ object Constants
         val que2 = Question(
             2, "What is the third word connected?",
             R.drawable.q_2,
-            "ONE", "TWO",
-            "THREE", "DECK", 4
+            "SQUARE", "KING",
+            "WOOD", "DECK", 4
         )
         questionsList.add(que2)
 
@@ -31,8 +31,8 @@ object Constants
         val que3 = Question(
             3, "What is the third word connected?",
             R.drawable.q_3,
-            "ONE", "TWO",
-            "THREE", "TRUNK", 4
+            "STRONG", "CLEAN",
+            "TRUNK", "CHILL", 3
         )
         questionsList.add(que3)
 
@@ -40,8 +40,8 @@ object Constants
         val que4 = Question(
             4, "What is the third word connected?",
             R.drawable.q_4,
-            "ONE", "TWO",
-            "THREE", "PUPIL", 4
+            "PUPIL", "TEACHER",
+            "KID", "ROCK", 1
         )
         questionsList.add(que4)
 
@@ -49,8 +49,8 @@ object Constants
         val que5 = Question(
             5, "What is the third word connected?",
             R.drawable.q_5,
-            "ONE", "TWO",
-            "THREE", "CASE", 4
+            "JUSTICE", "CASE",
+            "BORING", "SHAPE", 2
         )
         questionsList.add(que5)
 
@@ -58,8 +58,8 @@ object Constants
         val que6 = Question(
             6, "What is the third word connected?",
             R.drawable.q_6,
-            "ONE", "TWO",
-            "THREE", "BANK", 4
+            "WOLF", "FLOW",
+            "DENSE", "BANK", 4
         )
         questionsList.add(que6)
 
@@ -67,8 +67,8 @@ object Constants
         val que7 = Question(
             7, "What is the third word connected?",
             R.drawable.q_7,
-            "ONE", "TWO",
-            "THREE", "SHEET", 4
+            "IMAGINATION", "SLEEP",
+            "SHEET", "THIN", 3
         )
         questionsList.add(que7)
 
@@ -76,8 +76,8 @@ object Constants
         val que8 = Question(
             8, "What is the third word connected?",
             R.drawable.q_8,
-            "ONE", "TWO",
-            "THREE", "TANK", 4
+            "BANANA", "POTABLE",
+            "TREE", "TANK", 4
         )
         questionsList.add(que8)
 
@@ -85,8 +85,8 @@ object Constants
         val que9 = Question(
             9, "What is the third word connected?",
             R.drawable.q_9,
-            "ONE", "TWO",
-            "THREE", "RACQUET", 4
+            "RACQUET", "MUSIC",
+            "ANNOYING", "SPORT", 1
         )
         questionsList.add(que9)
 
@@ -94,8 +94,8 @@ object Constants
         val que10 = Question(
             9, "What is the third word connected?",
             R.drawable.q_10,
-            "ONE", "TWO",
-            "THREE", "MUMMY", 4
+            "OLD", "MUMMY",
+            "DRY", "RESPECTED", 2
         )
         questionsList.add(que10)
 

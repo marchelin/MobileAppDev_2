@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
         android:text="Result"
-        android:textColor="@android:color/white"
+        android:textColor="@color/dayWhiteText"
         android:textSize="25sp"
         android:textStyle="bold" />
 
@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="Hey, Congratulations!"
-        android:textColor="@android:color/white"
+        android:textColor="@color/dayWhiteText"
         android:textSize="25sp"
         android:textStyle="bold"/>
 
@@ -43,7 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
-        android:textColor="@android:color/white"
+        android:textColor="@color/dayWhiteText"
         android:textSize="22sp"
         android:textStyle="bold"
         tools:text="Username" />
@@ -53,7 +53,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:textColor="@android:color/secondary_text_dark"
+        android:textColor="@color/dayWhiteText"
         android:textSize="20sp"
         tools:text="Your Score is 9 / 10" />
 
@@ -62,9 +62,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        app:backgroundTint="@color/white"
+        app:backgroundTint="@color/dayWhiteText"
         android:text="FINISH"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/dayBlackText"
         android:textSize="18sp"
         android:textStyle="bold" />
 

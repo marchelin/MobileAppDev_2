@@ -13,7 +13,6 @@
         <activity
             android:name=".LoginActivity"
             android:exported="false" >
-
         </activity>
 
         <activity
