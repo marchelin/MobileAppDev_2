@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Day Mode Colors -->
     <color name="colorPrimary">#9013FE</color>
     <color name="colorPrimaryDark">#6A1B9A</color>
     <color name="colorAccent">#9013FE</color>
+    <color name="dayWhite">#FFFFFF</color>
+    <color name="dayBlack">#000000</color>
 
+    <!-- Night Mode Colors -->
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
+    <color name="darkGrey">#121212</color>
+
+    <color name="red">#FF0000</color>
 </resources>
